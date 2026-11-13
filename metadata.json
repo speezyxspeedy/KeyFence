@@ -1,0 +1,6 @@
+{
+  "name": "KeyFence",
+  "description": "Local-first developer secret detection and code security scanner. Find exposed credentials before they reach your repository.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
